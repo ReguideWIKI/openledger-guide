@@ -15,7 +15,7 @@ cd openledger-node-1
 
 Sử dụng lệnh `ar` để giải nén file `.deb`:
 ```bash
-ar x openledger-node-1.0.0.deb
+ar x /root/openledger-node-1.0.0.deb
 ```
 
 Sau khi chạy lệnh này, bạn sẽ thấy các file sau trong thư mục:
