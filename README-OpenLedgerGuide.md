@@ -1,6 +1,4 @@
 
-# Hướng Dẫn Cài Đặt và Khởi Động OpenLedger Node
-
 ## 1. Tải File Cài Đặt
 Chạy lệnh sau để tải file cài đặt từ link cung cấp:
 
