@@ -1,6 +1,4 @@
 
-# Hướng Dẫn Giải Nén File `/tmp/openledger-node-1.0.0.deb` Vào Thư Mục `/tmp/openledger-node-1`
-
 ## Bước 1: Tạo thư mục đích
 Tạo thư mục để chứa nội dung giải nén:
 ```bash
