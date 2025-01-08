@@ -33,7 +33,7 @@ Nội dung sẽ được giải nén trực tiếp vào thư mục `/tmp/openled
 Nếu cần kiểm tra thông tin cấu hình của gói, tạo thư mục con `control` và giải nén `control.tar.xz` vào đó:
 ```bash
 mkdir -p control
-tar -xf control.tar.xz -C control
+tar -xf control.tar.gz -C control
 ```
 
 ## Bước 5: Kiểm tra nội dung
