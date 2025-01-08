@@ -4,18 +4,18 @@
 ## Bước 1: Tạo thư mục đích
 Tạo thư mục để chứa nội dung giải nén:
 ```bash
-mkdir -p /openledger-node-1
+mkdir -p openledger-node-1
 ```
 
 ## Bước 2: Giải nén file `.deb` vào thư mục
 Di chuyển vào thư mục đích:
 ```bash
-cd /openledger-node-1
+cd openledger-node-1
 ```
 
 Sử dụng lệnh `ar` để giải nén file `.deb`:
 ```bash
-ar x /openledger-node-1.0.0.deb
+ar x openledger-node-1.0.0.deb
 ```
 
 Sau khi chạy lệnh này, bạn sẽ thấy các file sau trong thư mục:
@@ -41,7 +41,7 @@ tar -xf control.tar.xz -C control
 ## Bước 5: Kiểm tra nội dung
 Sau khi hoàn thành các bước trên, kiểm tra nội dung thư mục bằng lệnh:
 ```bash
-ls -l /openledger-node-1
+ls -l openledger-node-1
 ```
 
 ## Kết Quả
