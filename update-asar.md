@@ -1,5 +1,3 @@
-# Hướng Dẫn Giải Nén và Chỉnh Sửa File `app.asar`
-
 ## Bước 1: Cài Đặt Công Cụ `asar`
 
 ### 1.1: Cài Đặt Node.js và npm
