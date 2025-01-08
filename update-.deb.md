@@ -25,6 +25,7 @@ Sau khi chạy lệnh này, bạn sẽ thấy các file sau trong thư mục:
 Giải nén nội dung thực tế từ `data.tar.xz`:
 ```bash
 tar -xf data.tar.xz
+
 ```
 
 Nội dung sẽ được giải nén trực tiếp vào thư mục `/tmp/openledger-node-1`.
@@ -34,6 +35,8 @@ Nếu cần kiểm tra thông tin cấu hình của gói, tạo thư mục con `
 ```bash
 mkdir -p control
 tar -xf control.tar.gz -C control
+
+tar -cvJf control.tar.xz control
 ```
 
 ## Bước 5: Kiểm tra nội dung
